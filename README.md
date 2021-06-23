@@ -5,7 +5,7 @@ WELCOME TO OUR APPLICATION *EXPLORE INDIA*.
 
 ## TEASER OF OUR APPLICATION 
 
-![caption](https://youtu.be/aFEg3-Y1YNQ)
+![LINK](https://youtu.be/aFEg3-Y1YNQ)
 
 
 
