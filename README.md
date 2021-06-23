@@ -23,7 +23,7 @@ https://youtu.be/aFEg3-Y1YNQ
 
 > * Grab a ticket to state
 > * Complete the task of walking certain number of steps.
-> * Unlock a rholy place  in the state.
+> * Unlock a holy place  in the state.
 > * View the Augmented Reality model.
 > * Learn and gin knowledge about the place.
 > * After all the places in a state are unlocked , answer the quiz and get the ticket to next step
